@@ -1,0 +1,17 @@
+trader_on,0
+amount_to_trade,0.11
+time_between_transactions,86500.0
+last_coinbase_price,95.88
+last_mtgox_price,103.52723
+last_transaction_time,1373768256
+last_check_time,1373770023
+coins_on_coinbase,0.0
+coins_on_mtgox,0.0
+dollars_in_bank,20000.01044
+coinbase_api_key,XXXXXXXXXXXX
+gmailUser,XXXXXXXXXXX
+gmailPassword,XXXXXXXX
+last_buy_order,none
+mtgoxId,XXXXXX
+mtgoxPassword,XXXXX
+mtgoxBTCAddress,XXXXXXXXX
